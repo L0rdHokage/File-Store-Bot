@@ -7,7 +7,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/TG-V4MP1R3/File-Store-Bot",
+  "repository": "https://github.com/L0rdHokage/File-Store-Bot",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
