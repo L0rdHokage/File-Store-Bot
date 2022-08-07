@@ -26,7 +26,7 @@ Using Of This Bot Can Avoid Telegram Movies Copyright,Channel Ban😉
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/TG-V4MP1R3/File-Store-Bot
+git clone https://github.com/L0rdHokage/File-Store-Bot
 cd  File-Store-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
